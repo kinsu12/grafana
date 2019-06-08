@@ -8,7 +8,7 @@ aliases = ["v1.1", "guides/reference/admin", "v3.1"]
 
 # Grafana Documentation
 
-<h2>Installing Grafana</h2>
+<h2>Road Signature</h2>
 <div class="nav-cards">
     <a href="{{< relref "installation/debian.md" >}}" class="nav-cards__item nav-cards__item--install">
         <div class="nav-cards__icon fa fa-linux">
